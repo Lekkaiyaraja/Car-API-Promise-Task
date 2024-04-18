@@ -1,0 +1,11 @@
+/* Custom styles */
+.container {
+    padding-top: 50px;
+  }
+  .brand-list {
+    list-style: none;
+    padding: 0;
+  }
+  .brand-item {
+    margin-bottom: 10px;
+  }
